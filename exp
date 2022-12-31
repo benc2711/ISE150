@@ -1,0 +1,10 @@
+print("hello world")
+# single line comment
+'''
+Multi line comment
+'''
+
+'''
+Every file must have a multiline comment containing name, email, course number, semester, year, 
+and something else I missed. 
+'''
